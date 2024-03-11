@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/public/img
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+.env
+.env.prod
+composer.lock
+.phpintel
+/*.todo
+/*.txt
+/public/img
